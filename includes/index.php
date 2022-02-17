@@ -7,11 +7,9 @@
     <title>Document</title>
 </head>
 <body>
-    
 <?php
-
-include 'menu.php'
-
+require 'includes/menu.php';
+require 'includes/database.php';
 ?>
 
 </body>
